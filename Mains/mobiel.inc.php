@@ -1,2 +1,2 @@
-<?php $page . 'inc.php'?>
+<?php $page . 'inc.php';?>
 <?php include 'nav.php';?>
